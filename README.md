@@ -1,5 +1,5 @@
 # Hands-On Introduction: SQL 
-This is the repository for the LinkedIn Learning course Hands-On Introduction: SQL. The full course is available from [LinkedIn Learning][lil-course-url].
+This is Elise's copy of the repository for the LinkedIn Learning course Hands-On Introduction: SQL. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![1667324559752](https://user-images.githubusercontent.com/25848438/204876476-c6321cac-9f17-433f-ba07-a96065ff97b0.jpeg)
 
